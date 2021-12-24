@@ -1,3 +1,9 @@
+# Demo
+
+Live demo hosted by Firebase: https://netflix-clone-4fea8.web.app
+
+Created with React using TMDB API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -10,7 +10,7 @@ function Banner({ trailerUrl, handleTrailer }) {
 
   useEffect(() => {
     async function fetchData() {
-      const request = await axios.get(requests.fetchNetflixOriginals);
+      const request = await axios.get(requests.netflix.fetch);
       const randomNumber = Math.floor(
         Math.random() * request.data.results.length - 1
       );
